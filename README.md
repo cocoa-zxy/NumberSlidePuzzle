@@ -2,7 +2,7 @@
 
 一款使用 **Cocos Creator** 开发的数字华容道游戏，内置 **A\*** 与 **IDA\*** 启发式搜索求解器，可自动求解任意打乱状态。
 
-![游戏截图] <!-- 你可以放一张运行截图 -->
+## 游戏截图
 <img width="1283" height="734" alt="image" src="https://github.com/user-attachments/assets/93e13b74-cbfa-4888-9233-1dfcefe38610" />
 
 ## ✨ 功能特性
