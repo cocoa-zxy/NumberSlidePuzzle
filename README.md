@@ -16,7 +16,7 @@
 
 ## 🎮 在线试玩
 
-👉 [点击这里，直接在浏览器中游玩](https://cocoa-zxy.github.io/NumberSLidePuzzle/)  
+👉 [点击这里，直接在浏览器中游玩](https://cocoa-zxy.github.io/NumberSlidePuzzle/)  
 👉 [点击这里，在cocoa的网站中游玩](https://cocoa-zxy.cn/games/pc/number_slide_puzzle/)  
 
 ## 🧠 算法说明
